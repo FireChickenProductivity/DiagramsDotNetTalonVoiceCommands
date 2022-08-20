@@ -1,7 +1,6 @@
 tag: browser
 title: /diagrams.net/
 -
-new line: key(enter)
 line break: key(enter)
 indent: key(tab)
 edit cell label: key(f2)
